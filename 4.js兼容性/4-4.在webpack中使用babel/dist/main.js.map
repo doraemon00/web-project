@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://test/./src/index.js"],"names":["func","console","log"],"mappings":";;;;;;AAAA,IAAMA,IAAI,GAAG,SAAPA,IAAO,GAAI;AACbC,SAAO,CAACC,GAAR,CAAY,KAAZ;AACH,CAFD;;AAIAF,IAAI,G","file":"main.js","sourcesContent":["const func = ()=>{\r\n    console.log(\"abc\")\r\n}\r\n\r\nfunc()"],"sourceRoot":""}
